@@ -1,0 +1,79 @@
+     private void button7_Click(object sender, EventArgs e)
+        {
+            printPreviewDialog1.Document = printDocument1;
+
+
+            // Show PrintPreview Dialog
+            printPreviewDialog1.ShowDialog();
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            printDialog1.Document = printDocument1;
+
+            if (printDialog1.ShowDialog() == DialogResult.OK)
+            {
+
+                printDocument1.Print();
+
+            }
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+            Font fnt2 = new Font("Arial", 15);
+
+            Bitmap myBitmap1 = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+
+            pictureBox1.DrawToBitmap(myBitmap1, new Rectangle(0, 0, pictureBox1.Width, pictureBox1.Height));
+
+            e.Graphics.DrawImage(myBitmap1, 10, 10);
+
+            myBitmap1.Dispose();
+
+            e.Graphics.DrawString(label16.Text, fnt2, Brushes.DarkCyan, 325, 20);
+            
+            e.Graphics.DrawString(label14.Text, fnt2, Brushes.DarkCyan, 700, 20);
+
+            e.Graphics.DrawString(label5.Text,fnt2, Brushes.Black, 100, 60);
+            e.Graphics.DrawString(textBox1.Text, fnt2, Brushes.Black, 300, 60);
+
+            e.Graphics.DrawString(label1.Text, fnt2, Brushes.Black, 100, 100);
+            e.Graphics.DrawString(textBox2.Text,fnt2, Brushes.Black, 300, 100);
+
+            e.Graphics.DrawString(label2.Text, fnt2, Brushes.Black, 100, 140);
+            e.Graphics.DrawString(textBox3.Text,fnt2 , Brushes.Black, 300, 140);
+
+            e.Graphics.DrawString(label3.Text, fnt2, Brushes.Black, 100, 180);
+            e.Graphics.DrawString(textBox4.Text, fnt2, Brushes.Black, 300, 180);
+
+            e.Graphics.DrawString(label4.Text, fnt2, Brushes.Black, 100, 220);
+            e.Graphics.DrawString(textBox5.Text, fnt2, Brushes.Black, 300, 220);
+
+            e.Graphics.DrawString(label5.Text, fnt2, Brushes.Black, 100, 260);
+            e.Graphics.DrawString(textBox6.Text, fnt2, Brushes.Black, 300, 260);
+
+            e.Graphics.DrawString(label6.Text, fnt2, Brushes.Black, 100, 300);
+            e.Graphics.DrawString(textBox7.Text, fnt2, Brushes.Black, 300, 300);
+
+            e.Graphics.DrawString(label7.Text, fnt2, Brushes.Black, 100, 340);
+            e.Graphics.DrawString(textBox8.Text, fnt2, Brushes.Black, 300, 340);
+
+            e.Graphics.DrawString(label8.Text, fnt2, Brushes.Black, 100, 380);
+            e.Graphics.DrawString(textBox9.Text, fnt2, Brushes.Black, 300, 380);
+
+            e.Graphics.DrawString(label10.Text,fnt2, Brushes.Black, 100, 420);
+            e.Graphics.DrawString(textBox10.Text, fnt2, Brushes.Black, 300, 420);
+
+            e.Graphics.DrawString(label9.Text, fnt2, Brushes.Black, 100, 460);
+            e.Graphics.DrawString(textBox11.Text, fnt2, Brushes.Black, 300, 460);
+
+            e.Graphics.DrawString(label11.Text, fnt2, Brushes.Black, 100, 500);
+            e.Graphics.DrawString(textBox12.Text, fnt2, Brushes.Black, 300, 500);
+
+            e.Graphics.DrawString(label12.Text, fnt2, Brushes.Black, 100, 540);
+            e.Graphics.DrawString(textBox13.Text, fnt2, Brushes.Black, 300, 540);
+
+            e.Graphics.DrawString(label13.Text, fnt2, Brushes.Black, 100, 580);
+            e.Graphics.DrawString(textBox14.Text, fnt2, Brushes.Black, 300, 580);

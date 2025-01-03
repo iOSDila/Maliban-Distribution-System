@@ -1,0 +1,396 @@
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project.accdb
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+c:\users\kasun\documents\visual studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_3.accdb
+C:\Users\Kasun\Documents\Visual Studio 2010\Projects\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project.accdb
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_3.accdb
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project.accdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_3.accdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_4.accdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\ELINE\Desktop\brandnewproject\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_3.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_4.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\New folder\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\test.accdb
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.income.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+C:\Users\Kasun\Desktop\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+O:\imation\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+O:\imation\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+O:\imation\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Income.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Income.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+J:\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Income.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\Kasun\Desktop\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+P:\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+P:\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+P:\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Income.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\Remain graphics\ndfsbfkabf\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe.config
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Bill_Money.accdb
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project 3.accdb
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Maliban Distribution project_5.accdb
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.exe
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\bin\Debug\Esoftmaliban.pdb
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.about.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.bill.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billedit.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.billviwe.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Login.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Form2.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Icomeview.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Income.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.mainpage.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderpre.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.orders.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Orderviwe.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.Properties.Resources.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.quicksearch.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.starting.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stock.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockedit.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.stockviwe.resources
+C:\Users\User\Desktop\Remain graphics\Our New project\Remain graphics\Today\Project new\Esoftmaliban_2\System\Esoftmaliban\obj\x86\Debug\Esoftmaliban.csproj.GenerateResource.Cache
