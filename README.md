@@ -85,7 +85,7 @@ Welcome to the **Maliban Distribution System**, your go-to software for managing
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the [Apptora] file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details
 
 ---
 
